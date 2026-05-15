@@ -2,6 +2,8 @@
 
 A GUI tool for fixing your Google Takeout mess — sort matched files into folders, stamp correct dates from JSON metadata, and rename everything to a clean `YYYYMMDD_HHMMSS` format. No command line needed.
 
+<img width="1079" height="890" alt="Screenshot" src="https://github.com/user-attachments/assets/5eae933b-4968-4784-b7f9-5c532aafa538" />
+
 ---
 
 ## Why does this exist?
